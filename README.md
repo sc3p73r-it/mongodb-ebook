@@ -1,4 +1,4 @@
-# MongoDB Deep Dive Ebook <img src="mongo.png" alt="drawing" width="50" />
+# MongoDB Deep Dive Ebook <img src="/assets/images/mongo.png" alt="drawing" width="50" />
 ---
 MongoDB Documentation ကို အခြေခံပြီးတော့ MongoDB Deep Dive Ebook ကို Google Gemini Pro AI နဲ့ မြန်မာလို အသေးစိတ်ရေးသားထားပါတယ်။ ဒီ Ebook မှာ MongoDB ရဲ့ အခြေခံကနေစပြီး အဆင့်မြင့်တဲ့ အကြောင်းအရာတွေအထိ အခန်းလိုက်အခန်းလိုက် နားလည်လွယ်အောင် ရှင်းပြပေးသွားမှာ ဖြစ်ပါတယ်။
 

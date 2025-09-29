@@ -5,7 +5,7 @@ MongoDB ဆိုတာ open-source ဖြစ်တဲ့ NoSQL (Not only SQL) d
 ဒီ document တွေကို collection ဆိုတဲ့ အစုအဖွဲ့တွေထဲမှာ ထည့်သွင်းပါတယ်။ collection တစ်ခုဟာ relational database မှာရှိတဲ့ table တစ်ခုနဲ့ သဘောတရားချင်း ဆင်တူပါတယ်။
 
 ## SQL vs NoSQL: ဘာတွေကွာခြားလဲ?
-![alt text](image.png)
+![alt text](/assets/images/image.png)
 
 #### MongoDB ရဲ့ အားသာချက်များ
 1. Flexible Schema: Application ရဲ့လိုအပ်ချက်အရ data structure ကို အလွယ်တကူ ပြောင်းလဲနိုင်ပါတယ်။
