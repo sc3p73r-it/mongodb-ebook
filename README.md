@@ -5,13 +5,13 @@ MongoDB Documentation ကို အခြေခံပြီးတော့ Mongo
 ### MongoDB Deep Dive: မြန်မာလို လေ့လာကြမယ်
 **မာတိကာ**
 - အခန်း (၁): MongoDB နှင့် NoSQL Databases
-  - [MongoDB ဆိုတာဘာလဲ?](/Chapter1.md)
-  - SQL vs NoSQL: ဘာတွေကွာခြားလဲ?
-  - MongoDB ရဲ့ အားသာချက်များ
-  - JSON/BSON Data Model အကြောင်း
+    - [MongoDB ဆိုတာဘာလဲ?](/Chapter1.md)
+    - [SQL vs NoSQL: ဘာတွေကွာခြားလဲ?](https://github.com/sc3p73r-it/mongodb-ebook/blob/main/Chapter1.md#sql-vs-nosql-%E1%80%98%E1%80%AC%E1%80%90%E1%80%BD%E1%80%B1%E1%80%80%E1%80%BD%E1%80%AC%E1%80%81%E1%80%BC%E1%80%AC%E1%80%B8%E1%80%9C%E1%80%B2)
+    -MongoDB ရဲ့ အားသာချက်များ
+    - JSON/BSON Data Model အကြောင်း
 
 - အခန်း (၂): MongoDB Installation နှင့် Setup
-  - Windows, macOS, Linux တို့တွင် MongoDB ထည့်သွင်းခြင်း
+  -[Windows, macOS, Linux တို့တွင် MongoDB ထည့်သွင်းခြင်း](/Chapter2.md)
   - MongoDB Shell (mongosh) ကို အသုံးပြုခြင်း
   - MongoDB Compass (GUI) နှင့် ချိတ်ဆက်ခြင်း
 
