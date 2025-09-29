@@ -19,5 +19,3 @@ Shell ထဲရောက်သွားရင်`show dbs`လို့ရို�
 MongoDB Compass ဆိုတာ MongoDB အတွက် graphical user interface (GUI) tool တစ်ခုဖြစ်ပါတယ်။ Command line နဲ့ အသုံးမပြုချင်တဲ့သူတွေအတွက် data တွေကို အလွယ်တကူ ကြည့်ရှု၊ ပြင်ဆင်နိုင်အောင် ကူညီပေးပါတယ်။
 - Download: https://www.mongodb.com/try/download/compass မှာ download လုပ်နိုင်ပါတယ်။
 - Connection: Compass ကိုဖွင့်ပြီး connection string (ဥပမာ - mongodb://localhost:27017) ကိုထည့်ပြီး MongoDB server နဲ့ ချိတ်ဆက်နိုင်ပါတယ်။
-
-

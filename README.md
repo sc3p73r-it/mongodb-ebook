@@ -11,7 +11,7 @@ MongoDB Documentation ကို အခြေခံပြီးတော့ Mongo
     - JSON/BSON Data Model အကြောင်း
 
 - အခန်း (၂): MongoDB Installation နှင့် Setup
-  -[Windows, macOS, Linux တို့တွင် MongoDB ထည့်သွင်းခြင်း](/Chapter2.md)
+  - [Windows, macOS, Linux တို့တွင် MongoDB ထည့်သွင်းခြင်း](/Chapter2.md)
   - MongoDB Shell (mongosh) ကို အသုံးပြုခြင်း
   - MongoDB Compass (GUI) နှင့် ချိတ်ဆက်ခြင်း
 
