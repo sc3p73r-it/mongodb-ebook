@@ -35,28 +35,37 @@ MongoDB Documentation ကို အခြေခံပြီးတော့ Mongo
   - Array များအတွင်း Query လုပ်ခြင်း
   - Projection: လိုအပ်တဲ့ Fields တွေပဲ ရွေးထုတ်ခြင်း
 
+<br>
+
 - အခန်း (၅): Indexing for Performance
   - Indexing ဆိုတာဘာလဲ? ဘာကြောင့်အရေးကြီးတာလဲ?
   - Single Field Index တည်ဆောက်ခြင်း
   - Compound Index တည်ဆောက်ခြင်း
   - Indexing Strategies နှင့် Best Practices
 
+<br>
+
 - အခန်း (၆): Aggregation Framework
   - Aggregation Pipeline ဆိုတာဘာလဲ?
   - အသုံးများသော Stages များ ($match, $group, $sort, $project, $limit, $skip)
   - လက်တွေ့ဥပမာများဖြင့် Aggregation အသုံးပြုပုံ
+
+<br>
 
 - အခန်း (၇): Data Modeling နှင့် Schema Design
   - Relational Data ကို MongoDB မှာ ဘယ်လိုသိမ်းမလဲ?
   - Embedding vs Referencing (Linking)
   - Schema Design Patterns (Attribute, Polymorphic, etc.)
   - One-to-One, One-to-Many, Many-to-Many Relationships
+<br>
 
 - အခန်း (၈): Mongoose (Node.js အတွက်)
   - [Mongoose ဆိုတာဘာလဲ?](/Chapter8.md)
-  - [Schema နှင့် Model တည်ဆောက်ခြင်း]()
-  - Mongoose ဖြင့် CRUD Operations များ ပြုလုပ်ခြင်း
-  - Validation နှင့် Middleware အသုံးပြုပုံ
+  - [Schema နှင့် Model တည်ဆောက်ခြင်း](https://github.com/sc3p73r-it/mongodb-ebook/blob/main/Chapter8.md#schema-%E1%80%94%E1%80%BE%E1%80%84%E1%80%B7%E1%80%BA-model-%E1%80%90%E1%80%8A%E1%80%BA%E1%80%86%E1%80%B1%E1%80%AC%E1%80%80%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8)
+  - [Mongoose ဖြင့် CRUD Operations များ ပြုလုပ်ခြင်း](https://github.com/sc3p73r-it/mongodb-ebook/blob/main/Chapter8.md#mongoose-%E1%80%96%E1%80%BC%E1%80%84%E1%80%B7%E1%80%BA-crud-operations-%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8-%E1%80%95%E1%80%BC%E1%80%AF%E1%80%9C%E1%80%AF%E1%80%95%E1%80%BA%E1%80%81%E1%80%BC%E1%80%84%E1%80%BA%E1%80%B8)
+  - [Validation နှင့် Middleware အသုံးပြုပုံ](https://github.com/sc3p73r-it/mongodb-ebook/blob/main/Chapter8.md#validation)
+
+<br>
 
 - နောက်ဆက်တွဲ
   - MongoDB Atlas (Cloud Database) အကြောင်း
